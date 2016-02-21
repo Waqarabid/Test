@@ -1,2 +1,2 @@
 # hello-world
-tutorial on how dos
+tutorial on how tos
