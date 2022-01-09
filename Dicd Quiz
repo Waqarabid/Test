@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T05:27:46.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zpfi74KE8lVJRzzhslJQ" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T05:31:13.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vOuYtrRWQ4rkuNQsJZ2O" version="16.2.2" type="github">
   <diagram id="9k0akcTPz4C4vgXT_Fxy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,11 +32,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xTa2IOVhw_RriSwG6a34-7" target="xTa2IOVhw_RriSwG6a34-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xTa2IOVhw_RriSwG6a34-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337.88" y="740" width="174.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="xTa2IOVhw_RriSwG6a34-8" value="Repeat the process for Player 2&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360.26" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="720" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-13" value="Change h1 to show who won or a draw by comparing two dice values. using DOM&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="780" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
