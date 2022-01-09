@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T05:13:34.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.2" etag="bZfAom-cHYvJU7M9ChpD" type="github"><diagram id="9k0akcTPz4C4vgXT_Fxy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-09T05:26:49.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="c7FZxIjLlYi9RFrKsxj3" version="16.2.2" type="github">
+  <diagram id="9k0akcTPz4C4vgXT_Fxy" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xTa2IOVhw_RriSwG6a34-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="320" width="202" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xTa2IOVhw_RriSwG6a34-4" target="xTa2IOVhw_RriSwG6a34-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-4" value="Create randomNumberOne between 1 to 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353" y="335" width="144.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xTa2IOVhw_RriSwG6a34-5" target="xTa2IOVhw_RriSwG6a34-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334.25" y="490" width="182" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-6" value="Assign the number to dice image and place this image to Player 1 using DOM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="515" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xTa2IOVhw_RriSwG6a34-7" target="xTa2IOVhw_RriSwG6a34-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="930" />
+              <mxPoint x="200" y="930" />
+              <mxPoint x="200" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.88" y="740" width="174.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xTa2IOVhw_RriSwG6a34-8" value="Repeat the process for Player 2&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360.26" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
